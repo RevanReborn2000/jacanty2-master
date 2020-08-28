@@ -6,7 +6,7 @@
 #include "lab_intro.h"
 #include "cs225/PNG.h"
 
-int main() {
+int mainn() {
   cs225::PNG png, png2, result;
 
   png.readFromFile("alma.png");
